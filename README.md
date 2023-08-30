@@ -21,15 +21,15 @@ conda install pip
 ```
 conda install jupyter
 ```
-7. Deactivate the conda environment to return to your default environment:
-```
-conda deactivate
-```
-8. Clone this repository somewhere in your device:
+7. Clone this repository somewhere in your device:
 ```
 git clone https://github.com/Berkeley-CS170/cs170-fa23-coding
 ```
-10. Yay you're done with local setup!
+8. Once you're done, deactivate the conda environment to return to your default environment:
+```
+conda deactivate
+```
+9. Yay you're done with local setup!
 
 ## Instructions for completing each coding homework
 
@@ -37,7 +37,7 @@ git clone https://github.com/Berkeley-CS170/cs170-fa23-coding
 2. Open up your terminal
 3. `cd` into your specific coding homework directory, e.g.:
 ```
-cd blahblah/cs170-fa23-coding/hw01
+cd <wherever your homework lives>/cs170-fa23-coding/hw01
 ```
 4. Activate the `cs170` conda environment you created during initial local setup:
 ```
@@ -48,16 +48,13 @@ conda activate cs170
 pip install -r requirements.txt
 ```
 If there isn't a `requirements.txt` file in the coding homework directory, you can skip this step.
+
 6. Start up a local jupyter notebook server by running
 ```
 jupyter notebook
 ```
 7. Navigate to the jupyter notebook for the assignment and complete it! Good luck :D
-8. Deactivate the conda environment to return to your default environment:
+8. Yay you finished your coding homework for the week! Once you're done, submit your completed `.ipynb` file to Gradescope, and if you want, deactivate the conda environment to return to your default environment:
 ```
 conda deactivate
 ```
-9. Yay you finished your coding homework for the week!
-
-
-
