@@ -49,11 +49,11 @@ pip install -r requirements.txt
 ```
 If there isn't a `requirements.txt` file in the coding homework directory, you can skip this step.
 
-6. Start up a local jupyter notebook server by running
+6. Start up a local jupyter lab server by running
 ```
-jupyter notebook
+jupyter lab
 ```
-7. Navigate to the jupyter notebook for the assignment and complete it! Good luck :D
+7. Navigate to the jupyter lab for the assignment and complete it! Good luck :D
 8. Yay you finished your coding homework for the week! Once you're done, submit your completed `.ipynb` file to Gradescope, and if you want, deactivate the conda environment to return to your default environment:
 ```
 conda deactivate
