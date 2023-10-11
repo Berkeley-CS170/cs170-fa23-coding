@@ -1,4 +1,0 @@
-numpy>=1.24.1
-tqdm>=4.64.1
-otter-grader==4.4.1
-pylev
