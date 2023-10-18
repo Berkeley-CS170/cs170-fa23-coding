@@ -1,0 +1,4 @@
+otter-grader==4.4.1
+networkx
+numpy
+-e cs170_plugins
